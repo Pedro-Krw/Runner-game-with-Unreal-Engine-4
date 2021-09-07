@@ -7,6 +7,9 @@ Game ini di buat pada awal tahun 2020 menggunakan Game Engine Unreal Engine 4
 
 
 
+
+# LICENSE
+
 The Software is open-sourced software licensed under the MIT license. [MIT License](https://github.com/Pedro-korwa/Runner-game-with-Unreal-Engine-4/blob/master/LICENSE)
 
  
