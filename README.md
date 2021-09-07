@@ -7,6 +7,6 @@ Game ini di buat pada awal tahun 2020 menggunakan Game Engine Unreal Engine 4
 
 
 
-The Software is open-sourced software licensed under the MIT license. [license](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
+The Software is open-sourced software licensed under the MIT license. [MIT License](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 
  
