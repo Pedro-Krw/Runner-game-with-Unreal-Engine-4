@@ -9,6 +9,7 @@
   ###### ***Software Pendukung***
  - [Unreal Engine ](https://www.unrealengine.com/en-US/)
  - [Quixel Megascan](https://quixel.com/megascans/)
+ - [Quixel Mixer](https://quixel.com/mixer)
  - [Blueprint Visual Scripting](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/)
 
 ###### ***Download dan baca cara pemasangan***
