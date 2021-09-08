@@ -5,6 +5,9 @@
 
 
 Game ini di buat pada awal tahun 2020 menggunakan Game Engine Unreal Engine 4
+ - [Unreal Engine ](https://www.unrealengine.com/en-US/)
+ - [Quixel Megascan](https://quixel.com/megascans/)
+ - [Blueprint Visual Scripting](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/)
 
 
 
