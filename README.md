@@ -13,6 +13,7 @@
 
 ###### ***Download dan baca cara pemasangan***
  - Link [click here](https://drive.google.com/drive/u/1/folders/13GnWQxWoS_NrlePga-Dx2IxhGONn7H56)
+ - [Berjalan pada Android 7.0 (API level 24)](https://developer.android.com/studio/releases/platforms?hl=id#7.0)
 
 
 
