@@ -12,7 +12,7 @@
  - [Blueprint Visual Scripting](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/)
 
 ###### ***Download dan baca cara pemasangan***
- - Link [click here](https://kastau.herokuapp.com/Vjxg)
+ - Link [click here](https://drive.google.com/drive/u/1/folders/13GnWQxWoS_NrlePga-Dx2IxhGONn7H56)
 
 
 
